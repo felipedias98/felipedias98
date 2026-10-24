@@ -1,7 +1,7 @@
 ## Hello, World! 👋🧑‍💻
 
 ### Summary 
-I'm Felipe  and I'm a Computer Science undergraduate with experience with web application development.
+I'm Felipe  and I'm a Computer Science undergraduate with experience in web application development.
 
 ### My Skills 
 * Languages: Java, HTML, CSS, JavaScript.
