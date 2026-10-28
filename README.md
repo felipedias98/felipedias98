@@ -13,7 +13,7 @@ I'm Felipe  and I'm a Computer Science undergraduate with experience in web appl
 * Methodologies: Scrum/Kanban.
  
  ##
- https://vercel.appfelipedias98&show_icons=true&theme=radial
+ https://vercel.app/felipedias98&show_icons=true&theme=radial
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
