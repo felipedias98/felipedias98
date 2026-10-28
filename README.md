@@ -1,26 +1,20 @@
-## Hello, World! 👋🧑‍💻
+# Olá! 👋 Eu sou Felipe
 
-### Summary 
-I'm Felipe  and I'm a Computer Science undergraduate with experience in web application development.
+💻 Desenvolvedor Backend Java
+🚀 Estudando Java, Spring Boot, APIs REST e MySQL
 
-### My Skills 
-* Languages: Java, HTML, CSS, JavaScript.
-* Technologies/Frameworks: Spring Boot, Hibernate, Gradle, Maven,.
-* Databases: MySQL and PostgreSQL.
-* Development Environments/IDEs: IntelliJ IDEA, Eclipse, Visual Studio Code, Git.
-* Platforms: Windows.
-* Application/Web Servers: Apache, Tomcat.
-* Methodologies: Scrum/Kanban.
- 
- ##
- https://vercel.app/felipedias98&show_icons=true&theme=radial
-<div align="center">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Alex-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Alex-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   </div>
-</div>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipedias98&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+## 💻 Linguagens mais utilizadas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipedias98&layout=compact&theme=tokyonight)
+
+## 🔥 Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com?user=felipedias98&theme=tokyonight)
+
+## 🛠️ Tecnologias
+
+Java | Spring Boot | MySQL | Git | REST APIs
