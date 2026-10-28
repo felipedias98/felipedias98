@@ -5,11 +5,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipedias98&show_icons=true&theme=tokyonight&include_all_commits=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=felipedias98&show_icons=true&theme=tokyonight)
 
 ## 💻 Linguagens mais utilizadas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipedias98&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=felipedias98&layout=compact&theme=tokyonight)
 
 ## 🔥 Contribuições
 
